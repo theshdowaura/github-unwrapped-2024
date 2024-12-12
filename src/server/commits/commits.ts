@@ -16,12 +16,12 @@ export const commits = {
       commit: {
         url: "https://api.github.com/repos/remotion-dev/remotion/git/commits/eeb2cdb8509d85a7f5af3a69e4348ff9cb83ee18",
         author: {
-          date: "2023-11-28T10:06:03.000+01:00",
+          date: "2024-11-28T10:06:03.000+01:00",
           name: "Jonny Burger",
           email: "jonathanburger11@gmail.com",
         },
         committer: {
-          date: "2023-11-28T10:06:03.000+01:00",
+          date: "2024-11-28T10:06:03.000+01:00",
           name: "Jonny Burger",
           email: "jonathanburger11@gmail.com",
         },

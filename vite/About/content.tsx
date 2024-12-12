@@ -95,7 +95,7 @@ export const content: Array<AboutItemContent> = [
           code we deploy is available under{" "}
           <a
             className={styles.aboutLink}
-            href="https://github.com/remotion-dev/github-unwrapped-2023"
+            href="https://github.com/theshdowaura/github-unwrapped-2024"
           >
             here
           </a>
@@ -127,7 +127,7 @@ export const content: Array<AboutItemContent> = [
         The{" "}
         <a
           className={styles.aboutLink}
-          href="https://github.com/remotion-dev/github-unwrapped-2023"
+          href="https://github.com/theshdowaura/github-unwrapped-2024"
         >
           source code
         </a>{" "}
@@ -166,7 +166,7 @@ export const content: Array<AboutItemContent> = [
           and the source code of{" "}
           <a
             className={styles.aboutLink}
-            href="https://github.com/remotion-dev/github-unwrapped-2023"
+            href="https://github.com/theshdowaura/github-unwrapped-2024"
           >
             this project
           </a>
