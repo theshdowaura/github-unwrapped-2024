@@ -139,7 +139,7 @@ export const startServer = async () => {
     app.get("*", indexHtmlProduction({ handleUsername: false, stats: true }));
   }
 
-  const port = process.env.PORT || 8080;
+  const port = process.env.PORT || 10000;
 
   app.listen(port);
   console.log(`Listening on http://localhost:${port}`);
